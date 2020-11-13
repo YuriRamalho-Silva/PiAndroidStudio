@@ -67,6 +67,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
+        android:onClick="salvar"
         android:text="Salvar"
         android:textColor="@color/white"
         android:layout_marginRight="16pt"
