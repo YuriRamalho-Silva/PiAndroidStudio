@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CadastrarLugarActivity">
+    tools:context=".ui.CadastrarLugarActivity">
 
     <TextView
         android:id="@+id/textViewTitulo"
@@ -80,7 +80,6 @@
         android:layout_marginRight="128dp"
         android:layout_marginLeft="128dp"
         android:background="@color/blue"
-        android:onClick="salvar"
         android:text="Salvar"
         android:textColor="@color/white"
         android:layout_marginBottom="10dp"
